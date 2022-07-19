@@ -1,0 +1,1 @@
+const String kHost = "https://dang-voip.net/nawras/public/api";

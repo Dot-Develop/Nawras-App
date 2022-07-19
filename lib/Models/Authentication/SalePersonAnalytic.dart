@@ -1,0 +1,12 @@
+// `id` bigint(20) UNSIGNED NOT NULL,
+// `sale_person_id` bigint(20) UNSIGNED NOT NULL,
+// `market_id` bigint(20) UNSIGNED NOT NULL,
+// `area_id` bigint(20) UNSIGNED NOT NULL,
+// `sale_person_analytic_reason_id` bigint(20) UNSIGNED NOT NULL,
+// `type` tinyint(1) DEFAULT NULL,
+// `note` varchar(191) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+// `lat` double DEFAULT NULL,
+// `lng` double DEFAULT NULL,
+// `active_state` tinyint(1) NOT NULL,
+// `created_at` timestamp NULL DEFAULT NULL,
+// `updated_at` timestamp NULL DEFAULT NULL
